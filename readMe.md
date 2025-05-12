@@ -67,7 +67,7 @@ The Topic Retrieval API is a Node.js-based application designed to retrieve and 
   - Description: Searches for topics containing the term "react".
 
 #### Search + Sort
-- **GET** `http://localhost:3000/api/topics?search=a&sort=name`
+- **GET** `http://localhost:3000/api/topics?search=<searchTerm>&sort=name`
   - Description: Searches for topics containing the term "a" and sorts them by name.
 
 ## Contact
