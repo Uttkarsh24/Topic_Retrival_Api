@@ -49,7 +49,7 @@ The Topic Retrieval API is a Node.js-based application designed to retrieve and 
 ## Usage
 1. Start the server:
    ```bash
-   npm start
+   npm run dev
    ```
 2. Access the API at `http://localhost:<port>` (default port is specified in the `app.js` file).
 
